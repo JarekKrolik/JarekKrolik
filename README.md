@@ -10,7 +10,7 @@
 - 📫 How to reach me **madmax@onet.eu**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">jarekkrolik@vp.pl
+<p align="left"> <a mailto="jarekkrolik@vp.pl" rel="noreferrer" target="_blank"> jarekkrolik@vp.pl</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
