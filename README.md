@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-**madmax@onet.eu**
+**madmax@onet.eu** <br>
 **jarekkrolik@vpl.pl**
 
 <h3 align="left">Languages and Tools:</h3>
