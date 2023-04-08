@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a mailto="jarekkrolik@vp.pl" rel="noreferrer" target="_blank"> jarekkrolik@vp.pl</a>
 </p>
+
 <p align="left"> <a mailto="madmax@onet.eu" rel="noreferrer" target="_blank">madmax@onet.eu</a>
 </p>
 
