@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jarosław Królik</h1>
 <h3 align="center">Novice self-taught JavaScript programmer and Front-End developer.</h3>
 
-- 🔭 I’m currently working on [MovieManiac](https://github.com/JarekKrolik/MovieManiacsFrontEnd.git)
-
-- 🌱 I’m currently learning **React js,**
+- 🌱 I’m currently learning **React js,** **Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JarekKrolik](https://github.com/JarekKrolik)
 
