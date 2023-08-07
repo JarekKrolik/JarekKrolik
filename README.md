@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 
 - **madmax@onet.eu** <br>
-- **jarekkrolik@vpl.pl** <br>
+- **jarekkrolik@vp.pl** <br>
 
 - [facebook](https://www.facebook.com/jarek.blazkowicz/)
 
